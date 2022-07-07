@@ -1,4 +1,6 @@
-## Erkin web pagein html dosyasi
+## Erkin web pagein html dosyası
+*Bazı web sayfaları*
 
+ [Youtube için tıklayınız>>] (https://www.youtube.com/)
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti animi maiores, eos dolore ipsa consectetur accusantium cumque numquam beatae praesentium unde nemo illum! Adipisci eaque quae eveniet fugit impedit quidem.
+![foto için](https://picsum.photos/200/300) solda fotoğraf var 
